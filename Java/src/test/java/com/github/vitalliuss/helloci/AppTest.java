@@ -27,13 +27,4 @@ public class AppTest {
 		assertTrue(true);
 	}
 	
-	@Test
-	public void testAnotherMethod() {
-		App.doNothing();
-	}
-	
-	@Test
-	public void testAnotherClass() {
-		EmptyClass.emptyMethod();
-	}
 }
